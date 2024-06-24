@@ -1,16 +1,32 @@
-## Hi there 👋
+## About Me
 
-<!--
-**stevanbeljic/stevanbeljic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`` Computer Science & Finance Grad ``
 
-Here are some ideas to get you started:
+I am a recent Computer Science and Finance (Combined Degree) graduate from the University of Calgary. Here you can find some of my personal and academic projects, some created all by myself, others created with a team. 
+Please see my [pinned repositories](https://github.com/stevanbeljic?tab=repositories&q=&type=&language=&sort=stargazers) to see what I am currently working on!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Languages and Tools
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; text-align: center;">
+  <div>
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" alt="Java">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="C">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="C++">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" alt="HTML">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" alt="CSS">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="Javascript">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" alt="Vue.js">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="git">
+    
+  </div>
+</div>
+
+## More About Me
+Running<br>
+Working Out<br>
+Soccer<br>
+<br><br>
+Feel free to reach out to me!<br>
+Email: stevanbeljicp@gmail.com<br>
+LinkedIn: [stevanbeljic](https://www.linkedin.com/in/stevanbeljic/)
+
