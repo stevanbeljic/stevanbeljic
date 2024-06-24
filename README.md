@@ -22,10 +22,14 @@ Please see my [pinned repositories](https://github.com/stevanbeljic?tab=reposito
 </div>
 
 ## More About Me
-Running<br>
-Working Out<br>
-Soccer<br>
+### Hobbies
+**Running**<br>
+<img src="https://github.com/stevanbeljic/stevanbeljic/blob/main/fxm7neyxekw9p6re._original.png" style="width: 300px; height: 200px;"><br>
+**Soccer** <br>
+<img src="https://github.com/stevanbeljic/stevanbeljic/blob/main/soccerteam.JPG" style="width: 300px;">
 <br><br>
+
+### Contact
 Feel free to reach out to me!<br>
 Email: stevanbeljicp@gmail.com<br>
 LinkedIn: [stevanbeljic](https://www.linkedin.com/in/stevanbeljic/)
