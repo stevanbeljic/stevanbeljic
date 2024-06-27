@@ -9,8 +9,6 @@ Please see my [pinned repositories](https://github.com/stevanbeljic?tab=reposito
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: center; text-align: center;">
   <div>
     <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" alt="Java">
-    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" alt="C">
-    <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" alt="C++">
     <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" alt="HTML">
     <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" alt="CSS">
     <img style="width: 50px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="Javascript">
